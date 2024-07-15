@@ -1,5 +1,6 @@
 {
     "key": "value", 
     "hello": "Hi there",
-    "thank_you": "Thank you"
+    "thank_you": "Thank you - update", 
+    "new_key": "test"
 }
