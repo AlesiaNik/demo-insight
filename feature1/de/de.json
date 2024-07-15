@@ -1,3 +1,5 @@
 {
-    "key": "Wert"
+    "key": "Wert",
+    "hello": "Hallo",
+    "thank_you": "Danke"
 }
