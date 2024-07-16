@@ -1,12 +1,12 @@
 {
-    "key": "value", 
+    "key": "value",
     "hello": "Hi there",
-    "thank_you": "Thank you - update", 
-    "new_key": "test", 
+    "thank_you": "Thank you - update",
     "login": "Log in",
-    "empower.acceptance" : "Empower the next evolution of acceptance through software-led point-of-sale technology",
+    "empower.acceptance": "Empower the next evolution of acceptance through software-led point-of-sale technology",
     "popularity.pos": "Rising popularity of contactless payments",
-    "enablement.acceptance.devices": "Enablement of new acceptance devices", 
+    "enablement.acceptance.devices": "Enablement of new acceptance devices",
+    "new_key": "test",
     "test.key": "Merchants need low-maintenance, cost-effective contactless payment solutions to capitalize on this growing trend",
     "test.key.2": "hello, Mastercard"
 }
