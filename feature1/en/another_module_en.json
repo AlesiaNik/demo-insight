@@ -1,1 +1,2 @@
-{"test": "Some value updated"}
+{"test": "Some value updated", 
+"key2": "test"}
